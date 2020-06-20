@@ -1,0 +1,32 @@
+/*
+* {
+    color: goldenrod;
+}
+*/
+
+h1 {
+    color: rgb(105, 43, 105);
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+h2 {
+    color: rgb(131, 97, 11);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.destacado {
+    color: rgb(1, 10, 0);
+}
+p {
+    color: rgb(131, 218, 50);
+}
+p em {
+    color: rgb(1, 22, 8);
+}
+.resaltar{
+    color: goldenrod;
+}
+#Lista{
+    color: indianred;
+}
